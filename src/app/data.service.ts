@@ -29,19 +29,19 @@ export class DataService {
          },
          {  
             "id":2,
-            "email":"janet.weaver@reqres.in",
-            "first_name":"Janet",
+            "email":"joseph.weaver@reqres.in",
+            "first_name":"Joseph",
             "last_name":"Weaver",
             "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
-            "website": "www.JanetWeaverWebsite.com"
+            "website": "www.JosephWeaverWebsite.com"
          },
          {  
             "id":3,
-            "email":"emma.wong@reqres.in",
-            "first_name":"Emma",
+            "email":"chang.wong@reqres.in",
+            "first_name":"Chang",
             "last_name":"Wong",
             "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg",
-            "website": "www.EmmaWongWebsite.com"
+            "website": "www.ChangWongWebsite.com"
          }
       ]
    }

@@ -15,11 +15,11 @@ ul {
         border-radius: 4px;
         margin-bottom: 7px;
         display: grid;
-        grid-template-columns: 60px auto;
+        grid-template-columns: 90px auto;
 
         p {
             font-weight: bold;
-            margin-left: 20px;
+            margin-left: 10px;
         }
 
         img {
@@ -31,4 +31,20 @@ ul {
     
     li:nth-child(even) {background:#F8F8F8}
     li:nth-child(odd) {background: green}
+}
+
+.name{
+    margin-top: 38px;
+}
+
+.email{
+    margin-bottom: 0px;
+    display: grid;
+    grid-template-columns: 500px auto;
+}
+.web{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: grid;
+    grid-template-columns: 500px auto;
 }
